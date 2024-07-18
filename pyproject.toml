@@ -4,7 +4,7 @@ build-backend = "scikit_build_core.build"
 
 [project]
 name = "itk-parabolicmorphology"
-version = "1.3.0"
+version = "1.3.1"
 description = "itk-parabolicmorphology provides mathematical morphological erosion and dilation filters using parabolic structuring functions."
 readme = "README.rst"
 license = {file = "LICENSE"}
